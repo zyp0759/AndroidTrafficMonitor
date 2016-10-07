@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidTrafficMonitor</string>
+    <string name="about_us">这款软件是用于监控手机流量的，小组成员：祝宇平，陈文俊，黄琦绮，林青</string>
 </resources>
