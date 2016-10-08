@@ -43,7 +43,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="fill_parent"
                 android:text="流量监控"
-                android:id="@+id/showList"
+                android:id="@+id/trafficMonitorBtn"
                 android:background="@drawable/menu_line"
                 android:layout_weight="1"
                 />
